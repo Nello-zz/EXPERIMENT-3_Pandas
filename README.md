@@ -16,7 +16,7 @@ The Pandas library is a powerful tool for data manipulation and analysis in Pyth
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/Nello-zz/EXPERIMENT-3_Pandas
-2. Navigate to the project directory: `cd your-project`
+2. Navigate to the project directory: `cd EXPERIMENT-3_Pandas`
 3. Install the necessary Python packages:
    - If you are using Jupyter Notebook, run the following command in a notebook cell:
      ```python
